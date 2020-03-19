@@ -1,8 +1,0 @@
-# Codebeast
-IYIOLA OLUWASEUN DANIEL
-holuwaseun50@gmail.com
-Codebeast
-MOBILE TRACK
-JAVA
-KOTLIN
-FLUTTER
