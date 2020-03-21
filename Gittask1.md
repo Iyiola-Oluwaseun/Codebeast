@@ -1,0 +1,7 @@
+IYOLA OLUWASEUN DANIEL
+Codebeast
+holuwaseun50@gmail.com
+MOBILE
+JAVA
+KOTLIN
+FLUTTER
